@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/react-responsive": "^3.0.2",
     "@types/react-router-dom": "^4.3.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "chartjs": "^0.3.24",
     "express": "^4.16.3",
